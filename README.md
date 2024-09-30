@@ -1,10 +1,11 @@
 # CFAG19232C1 Family
 
-Example Seeeduino (Arduino clone) code for the Crystalfontz CFAG19232C1 family of displays. More information about these displays can be found at the following links.
+Example Seeeduino (Arduino clone) code for the Crystalfontz CFAG19232C and CFAG19232C1 family of displays. More information about these displays can be found at the following links.
 
-[CFAG19232C1-YYH-TT](https://www.crystalfontz.com/product/cfag19232c1yyhtt)
+- [CFAG19232C1-YYH-TT](https://www.crystalfontz.com/product/cfag19232c1yyhtt)
+- [CFAG19232C-TMI-TT](https://www.crystalfontz.com/product/cfag19232ctmitt)
 
-This code is also compatible with the previous version ([CFAG19232C-YYH-TT](https://www.crystalfontz.com/product/cfag19232cyyhtt)) that has been replaced by the "C1"
+This code is also compatible with the obsoleted [CFAG19232C-YYH-TT](https://www.crystalfontz.com/product/cfag19232cyyhtt).
 
 ## Connection Details
 ### 8080 parallel configuration

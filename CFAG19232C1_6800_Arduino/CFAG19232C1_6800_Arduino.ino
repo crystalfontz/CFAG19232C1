@@ -4,8 +4,10 @@
 //
 //  CRYSTALFONTZ
 //
-//  This code drives the CFAG19232C1 family of displays
+//  This code drives the CFAG19232C and CFAG19232C1 family of displays
 //    https://www.crystalfontz.com/product/cfag19232c1yyhtt
+//    https://www.crystalfontz.com/product/cfag19232cyyhtt
+//    https://www.crystalfontz.com/product/cfag19232ctmitt
 //
 //  The controller is a Sitronix ST7920
 //    https://www.crystalfontz.com/controllers/uploaded/Sitronix_ST7920_v4.0.pdf
